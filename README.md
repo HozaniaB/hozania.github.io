@@ -1,41 +1,58 @@
-<p align="right">
+<p align="center">
   <img src="img/Jornada.png">
+<em>EBAC- Escola Britânica de Artes Criativas & Tecnologia</em>
+</p>
 
-# Jornada Dev
-por EBAC - Escola Britânica de Artes Criativas & Tecnologia.
+## 😏- Meu Primeiro Projeto Front-End
+<code>
+🎯 Construção de uma página de currículo fazendo uso das melhores práticas de desenvolvimento web, trabalhando com HTML, CSS e GitHub.
+</code>
 
-Primeiro Projeto Front-End
+<hr>
 
-Ferramentos utilizadas:
+## 🔧Ferramentas utilizadas:
 
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<hr>
 
-Jornada:
-Conhecendo GitHub
-Aprenda mais sobre uma das tecnologias mais usadas no mercado.
+## 🚀Jornada:
+👉**Conhecendo GitHub**
+Aprendendo mais sobre uma das tecnologias mais usadas no mercado.
 
-Introdução das tecnologias
-Vamos iniciar a construção do seu projeto web.
+👉**Introdução das tecnologias**
+Iniciando a construção do meu projeto web.
 
-Criando layouts com HTML
-Iniciando seu projeto em HTML.
+👉**Criando layouts com HTML**
+Iniciando meu projeto em HTML.
 
-Se aprofundando no HTML
-Se aprofundando no HTML.
+👉**Se aprofundando no HTML**
+Hora de praticar.
 
-Aplicando estilos de cores em CSS
-Vamos aprender estilizar seu projeto utilizando CSS.
+👉**Aplicando estilos de cores em CSS**
+Aprendendo a estilizar meu projeto utilizando CSS.
 
-GitHub Pages
+👉**GitHub Pages**
 Armazenando o currículo no GitHub Pages.
 
-Finalizando o projeto
-Finalizando o projeto.
+👉**Finalizando o projeto**
+Ajustes finais.
 
-Webinar de encerramento.
+👉**Webinar de encerramento.**
 
+<hr>
+<p align="center">
+<table>
+  <tr>  
+    <td align="center">
+      <a href="https://github.com/HozaniaB">
+        <img src="https://github.com/HozaniaB.png" width="100px;" alt="Foto de Hozania"/><br>
+        <sub>
+          <b>Hozania Barnabé</b>
+        </sub>
+      </a>
+    </td>
 
 
