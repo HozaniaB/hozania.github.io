@@ -19,28 +19,32 @@
 <hr>
 
 ## 🚀Jornada:
-👉**Conhecendo GitHub**
+👉**Conhecendo GitHub**<br>
 Aprendendo mais sobre uma das tecnologias mais usadas no mercado.
 
-👉**Introdução das tecnologias**
+👉**Introdução das tecnologias**<br>
 Iniciando a construção do meu projeto web.
 
-👉**Criando layouts com HTML**
+👉**Criando layouts com HTML**<br>
 Iniciando meu projeto em HTML.
 
-👉**Se aprofundando no HTML**
+👉**Se aprofundando no HTML**<br>
 Hora de praticar.
 
-👉**Aplicando estilos de cores em CSS**
+👉**Aplicando estilos de cores em CSS**<br>
 Aprendendo a estilizar meu projeto utilizando CSS.
 
-👉**GitHub Pages**
+👉**GitHub Pages**<br>
 Armazenando o currículo no GitHub Pages.
 
-👉**Finalizando o projeto**
+👉**Finalizando o projeto**<br>
 Ajustes finais.
 
 👉**Webinar de encerramento.**
+
+## ✔️GitHubPages:
+Acesse aqui o [resultado final.](https://hozaniab.github.io/)
+ 
 
 <hr>
 <p align="center">
