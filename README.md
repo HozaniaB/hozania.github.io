@@ -43,8 +43,16 @@ Ajustes finais.
 👉**Webinar de encerramento.**
 
 ## ✔️GitHubPages:
-Acesse aqui o [resultado final.](https://hozaniab.github.io/)
- 
+
+  👇**Projeto Final**
+<p align="center"> 
+  <img src="img/page.gif">
+</p>
+  
+  👉[Acesse aqui!](https://hozaniab.github.io/)
+
+
+
 
 <hr>
 <p align="center">
@@ -58,5 +66,6 @@ Acesse aqui o [resultado final.](https://hozaniab.github.io/)
         </sub>
       </a>
     </td>
+</p>
 
 
